@@ -1,5 +1,5 @@
 # 💪 Simple Gym/Fitness Center Website (HTML & CSS)
-/
+
 This project is a static website designed for a gym or fitness center. It focuses on creating a clean, professional, and responsive front-end layout using standard web technologies.
 
 ## ✨ Features
